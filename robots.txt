@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /link/
+Allow: /categories/
+Allow: /tags/
+Allow: /about/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: https://robinch.top/sitemap.xml
+Sitemap: https://robinch.top/baidusitemap.xml

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>robinch&#39;s blog</title>
+  <icon>https://robinch.top/icon.png</icon>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://robinch.top/"/>
+  <updated>2020-07-30T02:02:44.443Z</updated>
+  <id>https://robinch.top/</id>
+  
+  <author>
+    <name>robinch</name>
+    <email>robinch.top@gmail.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>linux</title>
+    <link href="https://robinch.top/post/9211474f.html"/>
+    <id>https://robinch.top/post/9211474f.html</id>
+    <published>2020-07-29T08:43:47.000Z</published>
+    <updated>2020-07-30T02:02:44.443Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;linux 使用
+        
+      
+    
+    </summary>
+    
+    
+      <category term="linux" scheme="https://robinch.top/categories/linux/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ceshi</title>
+    <link href="https://robinch.top/post/439b6199.html"/>
+    <id>https://robinch.top/post/439b6199.html</id>
+    <published>2020-07-20T08:20:43.000Z</published>
+    <updated>2020-07-30T02:02:44.443Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt; 前提 &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ceshiceshi
+        
+      
+    
+    </summary>
+    
+    
+      <category term="ceshi" scheme="https://robinch.top/categories/ceshi/"/>
+    
+    
+      <category term="ceshi" scheme="https://robinch.top/tags/ceshi/"/>
+    
+  </entry>
+  
+</feed>
